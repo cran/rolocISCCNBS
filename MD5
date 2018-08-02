@@ -1,0 +1,10 @@
+69601686cf274e00bc3ae786c475b14b *DESCRIPTION
+8e2427bfde0888d96fee7d94b5aa9815 *NAMESPACE
+0897e76859c2ef3c683c9c8036e59105 *R/colourList.R
+8075931790ae20cdc88865dd5eedf660 *R/colourMetric.R
+68b329da9893e34099c7d8ad5cb9c940 *R/zzz.R
+bf4b50fc06e98fb408beeb29fd3a2df0 *README.md
+14979af7a1f293a09273c1ba1cb8c276 *inst/extdata/NBS-ISCC-rgb.txt
+56bc9cb9e9d8d4db48166bc8347d1c2b *inst/extdata/block.rds
+6bf8379171fa19b6dfeb2c2db7f55ac4 *man/ISCCNBSblock.Rd
+c146ef09c9c6751d4c8da2d83a5019df *man/ISCCNBScolours.Rd

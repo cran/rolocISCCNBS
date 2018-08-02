@@ -1,0 +1,9 @@
+
+importFrom("methods", "as")
+import("roloc")
+importFrom("colorspace", "sRGB", "coords")
+
+export("ISCCNBScolours",
+       "ISCCNBScolors",
+
+       "ISCCNBSblock")
